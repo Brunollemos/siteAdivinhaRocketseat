@@ -5,6 +5,9 @@ body {
     font-family: sans-serif;
 }
 
-img {
+#container {
     margin-top: 100px;
+    width: 80%;
+    max-width: 400px;
+    margin: inline;
 }
